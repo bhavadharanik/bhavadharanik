@@ -3,7 +3,7 @@
 
 # I'm Bhavadharani
 
-[![Twitter: Bhavadharani](https://img.shields.io/twitter/follow/bhava_hjk?style=social)](https://twitter.com/dharani_hjk)
+[![Twitter: Bhavadharani](https://img.shields.io/twitter/follow/dharani_hjk?style=social)](https://twitter.com/dharani_hjk)
 [![Linkedin: Bhavadharani](https://img.shields.io/badge/-bhavadharani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavadharani/)](https://www.linkedin.com/in/bhavadharanik/)
 [![GitHub Bhavadharani](https://img.shields.io/github/followers/bhavadharanik?label=follow&style=social)](https://github.com/bhavadharanik)
 
