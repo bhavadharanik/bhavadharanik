@@ -1,35 +1,24 @@
-### Hi there 👋
 
-
-# I'm Bhavadharani
+  # <pre>          Hi there,I am Bhavadharani 👋          </pre>                    
 
 [![Twitter: Bhavadharani](https://img.shields.io/twitter/follow/dharani_hjk?style=social)](https://twitter.com/dharani_hjk)
 [![Linkedin: Bhavadharani](https://img.shields.io/badge/-bhavadharani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavadharani/)](https://www.linkedin.com/in/bhavadharanik/)
 [![GitHub Bhavadharani](https://img.shields.io/github/followers/bhavadharanik?label=follow&style=social)](https://github.com/bhavadharanik)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+![](https://komarev.com/ghpvc/?username=Sarthak160&color=green)
+
+- 🔭 I’m currently working at Thoughtworks.
+- 🌱 I’m currently trying to excel golang and kubernetes
+- 🌱 Working on building REST API's and DevOps.  
+- 💬 Ask me about data structures and algorithms.
+- 📫 Reach me at https://twitter.com/dharani_hjk
 
 
-## 🔭 I’m currently working at Thoughtworks
-## 🌱 I’m currently trying to excel golang and kubernetes
-## 👯 I’m looking to collaborate on any learning and teaching opportunity 
-## 🤔 I’m looking for help with open source contributions
-## 💬 Ask me about java, golang, competitive programming and backend design
-## 📫 How to reach me: https://twitter.com/dharani_hjk
-## 😄 Pronouns: She/Her
+![Github stats](https://github-readme-stats.vercel.app/api?username=bhavadharanik)
 
-<!--
-**bhavadharanik/bhavadharanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavadharanik&show_icons=true&locale=en&layout=compact" alt="bhavadharanik" /></p>
 
-Here are some ideas to get you started:
+<p>&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak160" alt="Sarthak160" /></p>
