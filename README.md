@@ -6,7 +6,7 @@
 [![GitHub Bhavadharani](https://img.shields.io/github/followers/bhavadharanik?label=follow&style=social)](https://github.com/bhavadharanik)
 
 
-![](https://komarev.com/ghpvc/?username=Sarthak160&color=green)
+![](https://komarev.com/ghpvc/?username=bhavadharanik&color=green)
 
 - 🔭 I’m currently working at Thoughtworks.
 - 🌱 I’m currently trying to excel golang and kubernetes
@@ -21,4 +21,4 @@
 
 <p>&nbsp;
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak160" alt="Sarthak160" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavadharanik" alt="bhavadharanik" /></p>
